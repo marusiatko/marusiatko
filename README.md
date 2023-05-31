@@ -11,18 +11,13 @@ If you need to get in touch with my parents try one of these
 
 ## ☎️
 
-Or scan these QR codes to call them
+Or click the links below to see their phone numbers:
 
-### Mommy
+- [Mommy][call2]
+- [Daddy][call1]
 
-<img width="300" height="300" src="qr-code-call-mommy.png" alt="call my mommy"> 
-
-<br><br><br>
-
-### Daddy
-
-<img width="300" height="300" src="qr-code-call-daddy.png" alt="call my daddy"> 
-
+[call1]: https://zxing.org/w/decode?u=https%3A%2F%2Fgithub.com%2Fmarusiatko%2Fmarusiatko%2Fblob%2Fmain%2Fqr-code-daddy.png%3Fraw%3Dtrue
+[call2]: https://zxing.org/w/decode?u=https%3A%2F%2Fgithub.com%2Fmarusiatko%2Fmarusiatko%2Fblob%2Fmain%2Fqr-code-mommy.png%3Fraw%3Dtrue
 [github]: https://github.com/scibuff
 [fb]: https://fb.me/scibuff
 [fb2]: https://fb.me/hanka.kovacova.92
