@@ -15,11 +15,13 @@ Or scan these QR codes to call them
 
 ### Mommy
 
-<img width="300" height="300" src="qr-code-mommy.png" alt="call my mommy"> 
+<img width="300" height="300" src="qr-code-call-mommy.png" alt="call my mommy"> 
+
+<br><br><br>
 
 ### Daddy
 
-<img width="300" height="300" src="qr-code-daddy.png" alt="call my daddy"> 
+<img width="300" height="300" src="qr-code-call-daddy.png" alt="call my daddy"> 
 
 [github]: https://github.com/scibuff
 [fb]: https://fb.me/scibuff
