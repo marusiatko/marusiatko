@@ -1,9 +1,9 @@
 # Hello there, I'm Marína Vorobjov 🔗
 ## I'm a little baby girl
 
-If you need to get in touch with my parents try one of these
-
 ## 📢
+
+If you need to get in touch with my parents try one of these
 
 | Mommy | Daddy |
 |-------|-------|
